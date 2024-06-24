@@ -1,0 +1,5 @@
+Abteilung,Vorfallart,Schweregrad,Datum,Ursache,Maßnahmen
+Innere Medizin,Medikationsfehler,Geringfügig,2023-01-01,Menschliches Versagen,Schulung des Personals
+Chirurgie,Sturz,Schwer,2023-02-15,Unzureichende Sicherheitsmaßnahmen,Installation von Sicherheitsausrüstung
+Innere Medizin,Infektion,Mittel,2023-03-22,Hygienemängel,Verbesserung der Hygieneprotokolle
+Neurologie,Kommunikationsfehler,Leicht,2023-04-10,Fehlende Informationen,Implementierung eines neuen Kommunikationssystems
